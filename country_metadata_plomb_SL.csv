@@ -1,0 +1,160 @@
+Country,Abbrev,Region,MostPopulousCity,Latitude,Longitude,N_years_birth,N_years_death,Birth_pvals_12m,Birth_pvals_6m,Death_pvals_12m,Death_pvals_6m
+Greenland,Greenland,Europe,Nuuk,64.1743,-51.721,NaN,NaN,NaN,NaN,NaN,NaN
+Iceland,Iceland,Europe,Reykjavik,64.147,-21.817,47,38,2.12250911949099e-32,5.45102058962096e-06,9.85562466613889e-12,1
+Faroe Islands,Faroe Islands,Europe,Torshavn,62.0107,-6.771,NaN,NaN,NaN,NaN,NaN,NaN
+Finland,Finland,Europe,Helsinki,60.1699,24.938,44,32,4.1423028635092e-51,6.32593477056279e-12,1.16780351188791e-45,0.752159522
+Åland Islands,Åland Islands,Europe,Mariehamm,60.0971,19.944,NaN,NaN,NaN,NaN,NaN,NaN
+Norway,Norway,Europe,Oslo,59.9139,10.752,44,34,7.62387808968277e-68,1.18039861033628e-09,1.1002970079908e-40,0.381767034
+Estonia,Estonia,Europe,Tallinn,59.437,24.7536,32,29,4.74365280991794e-36,0.051291531,2.14944327243148e-43,1
+Sweden,Sweden,Europe,Stockholm,59.3293,18.068,49,37,9.64362608040522e-85,5.51132052525407e-14,1.42555616695327e-63,0.113855447
+Latvia,Latvia,Europe,Riga,56.9677,24.105,35,29,9.35716939210325e-41,0.000973015,3.30036650425059e-46,1
+Russian Federation,Russia,Europe,Moscow,55.7558,37.617,25,22,9.33734749929255e-11,3.05024992449848e-06,4.0360618787551e-20,1
+Denmark,Denmark,Europe,Copenhagen,55.6761,12.568,50,39,3.13418225499339e-64,1.97695207847623e-10,6.37900882292457e-65,1
+Lithuania,Lithuania,Europe,Vilnius,54.6872,25.279,37,31,3.57242115834813e-34,0.001643532,2.6461898682942e-50,1
+Isle of Man,Isle of Man,Europe,Douglas,54.1523,-4.484,NaN,NaN,NaN,NaN,NaN,NaN
+Belarus,Belarus,Europe,Minsk,53.9006,27.559,31,36,1.71869140123598e-18,2.25481778791179e-05,1.05730356762655e-53,1
+Ireland,Ireland,Europe,Dublin,53.3498,-6.26,49,39,7.61073415736491e-21,0.007013829,5.96047573171363e-68,0.604847314
+Germany,Germany,Europe,Berlin,52.52,13.405,30,28,3.75135510121929e-35,9.51827464144105e-11,1.64764654322298e-46,0.905409277
+Netherlands (Kingdom of the),Netherlands,Europe,Amsterdam,52.3676,4.89,50,37,1.61267457207268e-44,3.10071978178994e-11,5.68487139030312e-60,0.270715929
+Poland,Poland,Europe,Warsaw,52.2297,21.012,47,39,2.64942372494887e-44,3.52468270943045e-19,9.27861042359485e-66,1
+United Kingdom of Great Britain and Northern Ireland,United Kingdom,Europe,London,51.5072,-0.127,34,32,2.34713142617045e-36,0.009515153,1.04928264389151e-54,0.350666216
+Belgium,Belgium,Europe,"Antwerp (city limit), Brussels (metropolitan area)",51.2213,4.351,40,31,4.39722709973673e-42,0.0007177,1.3565197568901e-49,1
+Ukraine,Ukraine,Europe,Kyiv,50.4504,30.523,36,34,1.07469899505642e-14,2.91908819285567e-08,2.73453840413269e-53,1
+Czechia,Czechia,Europe,Prague,50.0755,14.421,33,29,1.08675084673169e-45,0.002512449,5.98424843377226e-40,0.084510476
+Luxembourg,Luxembourg,Europe,Luxembourg City,49.6116,6.131,44,31,3.0497838006845e-15,1,4.90760711862231e-38,1
+Guernsey,Guernsey,Europe,St. Peter Port,49.4598,-2.536,NaN,NaN,NaN,NaN,NaN,NaN
+Jersey,Jersey,Europe,Saint Helier,49.1868,-2.106,NaN,NaN,NaN,NaN,NaN,NaN
+France,France,Europe,Paris,48.8575,2.351,44,34,2.16000070177952e-37,1,1.1333178484743e-59,0.145519451
+Austria,Austria,Europe,Vienna,48.2081,16.373,47,39,2.05804099522765e-20,8.73739537802845e-24,3.03305829789572e-64,0.00587096
+Slovakia,Slovakia,Europe,Bratislava,48.1486,17.107,32,29,4.00613694862852e-26,4.73393192834521e-14,1.21942160276729e-36,1
+Mongolia,Mongolia,Asia,Ulaanbaatar,47.9221,106.917,23,19,3.67788080404572e-05,1,1.44510862198158e-10,1
+Hungary,Hungary,Europe,Budapest,47.4979,19.04,48,36,3.55326806572816e-25,2.45049743922481e-24,1.5490636851505e-55,1
+Switzerland,Switzerland,Europe,Zurich,47.3769,8.541,44,34,3.27292413648137e-38,3.11580670120324e-06,3.17329555392419e-57,0.982875167
+Liechtenstein,Liechtenstein,Europe,Schaan,47.1667,9.51,NaN,NaN,NaN,NaN,NaN,NaN
+Republic of Moldova,Moldova,Europe,Chisinau,47.0105,28.857,33,27,1.59191912861101e-05,0.036414143,1.6132259056151e-48,1
+Slovenia,Slovenia,Europe,Ljubljana,46.0569,14.505,33,29,1.07601181826302e-28,1.53629553591055e-05,1.76747327340257e-42,0.143450624
+Croatia,Croatia,Europe,Zagreb,45.815,15.981,33,31,7.09103336781166e-19,2.74397583669297e-12,3.20018247792174e-49,1
+Serbia,Serbia,Europe,Belgrade,44.8125,20.464,18,14,1.67964880432973e-20,0.087641457,6.99190068334898e-21,1
+Romania,Romania,Europe,Bucharest,44.4268,26.102,39,32,3.00774488307648e-27,1.16796784404444e-09,1.09058676662837e-61,1
+San Marino,San Marino,Europe,San Marino,43.9424,12.458,NaN,NaN,NaN,NaN,NaN,NaN
+Bosnia and Herzegovina,Bosnia-Herzegovina,Europe,Sarajevo,43.8563,18.413,11,8,5.93392176287333e-07,0.153678121,9.23260362439983e-11,1
+Canada,Canada,North America,Toronto,43.6532,-79.347,45,29,6.06654427042241e-72,5.9103875644774e-08,2.9030928802437e-53,1
+Kazakhstan,Kazakhstan,Asia,Almaty,43.238,76.851,37,22,2.05957268538181e-18,1,3.716880116053e-21,0.335121471
+Kyrgyzstan,Kyrgyzstan,Asia,Bishkek,42.8746,74.605,40,33,0.000232161,0.000407218,7.25707342637006e-38,0.025812982
+Bulgaria,Bulgaria,Europe,Sofia,42.6977,23.321,45,36,6.79916134722475e-34,3.92865136713945e-21,6.36311444828193e-68,1
+Andorra,Andorra,Europe,Andorra la Vella,42.5063,1.521,NaN,NaN,NaN,NaN,NaN,NaN
+Montenegro,Montenegro,Europe,Podgorica,42.4304,19.263,16,13,1.03586653565729e-17,0.249092997,2.1985893590756e-09,0.249350927
+North Macedonia,North Macedonia,Europe,Skopje,41.9981,21.428,31,29,2.89337045785875e-32,0.119142232,2.88153819825764e-45,1
+Italy,Italy,Europe,Rome,41.8967,12.496,49,37,6.6784561157673e-45,0.143939108,8.38491554474864e-58,4.55457131793071e-07
+Georgia,Georgia,Europe,Tbilisi,41.6938,44.827,21,14,0.086054651,0.027676575,5.05075478660095e-14,1
+Albania,Albania,Europe,Tirana,41.3275,19.818,35,17,2.17484448125802e-24,1,7.99095778084576e-23,1
+Uzbekistan,Uzbekistan,Asia,Tashkent,41.2995,69.24,19,12,1.05171057712382e-16,1,1,1
+Türkiye,Türkiye,Asia,Istanbul,41.0082,28.978,21,18,0.000631536,1.4500968637203e-08,1.3646399784099e-22,0.084158507
+United States of America,United States,North America,New York City,40.7128,-74.006,47,33,1.7662144648755e-68,1.741695370186e-14,8.45130062817135e-67,1
+Spain,Spain,Europe,Madrid,40.4167,-3.702,51,38,3.70738693602304e-21,6.25490059340741e-05,3.50215601254613e-62,1.9739549123742e-10
+Azerbaijan,Azerbaijan,Asia,Baku,40.4093,49.867,26,21,0.000205858,1,6.30301644693535e-25,1
+Armenia,Armenia,Asia,Yerevan,40.1872,44.499,24,24,3.64460487203038e-06,0.010611466,4.55256978082744e-08,1
+Portugal,Portugal,Europe,Lisbon,38.7223,-9.139,52,40,1.18618103397296e-32,0.024193163,4.17776635045981e-69,1.06133449505767e-09
+Tajikistan,Tajikistan,Asia,Dushanbe,38.5598,68.787,7,8,8.6406895536774e-06,0.265902016,1,2.81449412014086e-05
+Greece,Greece,Europe,Athens,37.9838,23.727,41,27,8.15405101116036e-31,5.13701674867029e-05,1.4080144185761e-39,8.70404946041002e-06
+Republic of Korea,Korea,Asia,Seoul,37.5503,126.978,48,40,3.59477075467244e-31,1.28267138884603e-14,9.13416780930251e-57,1
+Tunisia,Tunisia,Africa,Tunis,36.8065,10.166,36,NaN,1.71704930814767e-17,4.45132577910005e-05,NaN,NaN
+Algeria,Algeria,Africa,Algiers,36.7538,3.042,17,NaN,1,4.80078034788275e-05,NaN,NaN
+Gibraltar,Gibraltar,Europe,Gibraltar,36.1408,-5.351,NaN,NaN,NaN,NaN,NaN,NaN
+Malta,Malta,Europe,St Paul's Bay,35.9483,14.375,47,38,4.76664602544716e-30,1,4.96225197251247e-51,2.9052806334086e-12
+Iran (Islamic Republic of),Iran,Asia,Tehran,35.7219,51.389,9,NaN,1,1,NaN,NaN
+Japan,Japan,Asia,Tokyo,35.6764,139.759,52,38,1.35240424940402e-54,8.6193986890725e-13,2.00534658155119e-80,0.358524521
+Cyprus,Cyprus,Europe,Nicosia,35.1856,33.382,49,37,5.4571881678215e-57,0.024751298,3.44476062081263e-49,2.90498539744079e-09
+Lebanon,Lebanon,Asia,Beirut,33.8938,35.495,12,12,1,0.099523861,4.44060524182988e-08,1
+Morocco,Morocco,Africa,Casablanca,33.5731,-7.5898,NaN,NaN,NaN,NaN,NaN,NaN
+Syrian Arab Republic,Syrian Arab,Asia,Damascus,33.5132,36.2768,NaN,4,NaN,NaN,0.001582813,1
+Libya,Libya,Africa,Tripoli,32.8877,13.187,20,NaN,4.79037416606931e-09,1,NaN,NaN
+Bermuda,Bermuda,Caribbean,Hamilton,32.2951,-64.777,NaN,NaN,NaN,NaN,NaN,NaN
+Israel,Israel,Asia,"Tel Aviv (city limits), Jerusalem (metropolitan)",32.0853,34.769,50,39,2.25445977167996e-90,2.35559930292088e-05,3.19315199394659e-73,2.50375027413939e-06
+Jordan,Jordan,Asia,Amman,31.949722,35.932778,6,NaN,6.08442410017551e-05,1,NaN,NaN
+State of Palestine,Palestine,Asia,Gaza City,31.501,34.453,4,NaN,1.4396066927651e-05,1,NaN,NaN
+Egypt,Egypt,Africa,Cairo,30.0444,31.235,45,35,3.64113966328165e-12,5.34581701051274e-13,1.96038450887305e-07,2.5287209705296e-24
+Kuwait,Kuwait,Asia,Kuwait City,29.3759,47.977,46,31,6.64688091249946e-21,1,1.15102131044958e-38,0.074756249
+Bahrain,Bahrain,Asia,Manama,26.2235,50.586,42,9,8.45551196093046e-11,1,1.17440311981563e-08,1
+Qatar,Qatar,Asia,Doha,25.2854,51.533,37,19,7.52668685725094e-27,1.40189338249581e-06,2.6941253924727e-11,0.537651783
+United Arab Emirates,United Arab Emirates,Asia,Dubai,25.2048,55.271,4,NaN,0.000528941,1,NaN,NaN
+Bahamas,Bahamas,Caribbean,Nassau,25.0443,-77.3504,9,24,1.1745438835708e-07,1,1,0.010392192
+Pakistan,Pakistan,Asia,Karachi,24.8607,67.009,19,15,5.40822804013404e-23,0.02458304,1,0.654574924
+Oman,Oman,Asia,Muscat,23.588,58.388,7,NaN,0.000367286,1,NaN,NaN
+Cuba,Cuba,Caribbean,Havana,23.1136,-82.366,49,40,2.38490231152479e-103,0.47464784,2.08682869779555e-08,6.19158062457449e-23
+"China, Hong Kong SAR","China, Hong Kong",Asia,Hong Kong,22.3193,114.109,49,38,1.5122911335684e-79,1,1.61549112044237e-61,8.92841488495878e-07
+"China, Macao SAR","China, Macao",Asia,Macao,22.1987,113.543,36,38,1.82384306512751e-64,1,8.32904442847077e-30,0.000185905
+Turks and Caicos Islands,Turks-Caicos Islands,Caribbean,Providenciales,21.7738,-72.279,NaN,NaN,NaN,NaN,NaN,NaN
+Mexico,Mexico,North America,Mexico City,19.4326,-99.133,9,37,1.55972582382336e-12,0.025070407,3.60751101705234e-53,5.11856652449212e-12
+Cayman Islands,Cayman Islands,Caribbean,George Town,19.2966,-81.367,NaN,NaN,NaN,NaN,NaN,NaN
+British Virgin Islands,British Virgin Islands,Caribbean,Road Town,18.4286,-64.618,NaN,NaN,NaN,NaN,NaN,NaN
+Puerto Rico,Puerto Rico,Caribbean,San Juan,18.4153,-66.105,50,31,4.76557642789846e-87,0.005208092,1.89804498958766e-20,0.000447738
+United States Virgin Islands,US Virgin Islands,North America,Charlotte Amalie,18.3419,-64.934,25,NaN,1.62986857860959e-33,1,NaN,NaN
+Anguilla,Anguilla,Caribbean,The Valley,18.2148,-63.05,NaN,NaN,NaN,NaN,NaN,NaN
+Saint-Martin (French part),St. Martin,Caribbean,Marigot,18.0675,-63.082,NaN,NaN,NaN,NaN,NaN,NaN
+Jamaica,Jamaica,Caribbean,Kingston,18.0179,-76.811,15,NaN,1.1572970744257e-22,1,NaN,NaN
+Saint Barthélemy,St. Barthélemy,Caribbean,Gustavia,17.8964,-62.849,NaN,NaN,NaN,NaN,NaN,NaN
+Saint Kitts and Nevis,St. Kitts-Nevis,Caribbean,Basseterre,17.3026,-62.7177,NaN,NaN,NaN,NaN,NaN,NaN
+Antigua and Barbuda,Antigua-Barbuda,Caribbean,St John's,17.1274,-61.846,NaN,NaN,NaN,NaN,NaN,NaN
+Montserrat,Montserrat,Caribbean,Salem,16.7495,-62.226,NaN,NaN,NaN,NaN,NaN,NaN
+Guadeloupe,Guadeloupe,Caribbean,Les Abymes,16.2714,-61.531,24,14,1.97656823652055e-30,1,1,0.861318028
+Cabo Verde,Cabo Verde,Africa,Praia,14.9198,-23.509,17,NaN,0.00061931,0.000208507,NaN,NaN
+Philippines,Philippines,Asia,Quezon City,14.676,121.044,29,23,4.86159095677855e-42,0.000787701,2.56443898769947e-07,0.059117084
+Guatemala,Guatemala,Central America,Guatemala CIty,14.6349,-90.506,44,21,1.41573276783099e-15,0.005977151,1.89049064658861e-07,1
+Martinique,Martinique,Caribbean,Fort de France,14.6061,-61.058,28,22,2.10986100788225e-42,0.030502416,1,0.050561728
+Saint Lucia,St. Lucia,Caribbean,Castries,14.011,-60.993,12,NaN,5.10869141680294e-23,1,NaN,NaN
+Thailand,Thailand,Asia,Bangkok,13.7563,100.5018,NaN,4,NaN,NaN,0.013302545,1
+El Salvador,El Salvador,Central America,San Salvador,13.6929,-89.199,40,33,1.36569436704051e-17,1,1,0.001157052
+Guam,Guam,Oceania,Hagatna,13.4769,144.75,4,NaN,5.62487213654942e-13,1,NaN,NaN
+Saint Vincent and the Grenadines,St. Vincent-Grenadines,Caribbean,Kingstown,13.16,-61.224,33,NaN,9.00704659127499e-53,0.022905567,NaN,NaN
+Barbados,Barbados,Caribbean,Bridgetown,13.0971,-59.618,20,14,1.18906006237522e-11,1,1,0.7585325
+Mali,Mali,Africa,Bamako,12.6392,-8.0029,NaN,NaN,NaN,NaN,NaN,NaN
+Aruba,Aruba,Caribbean,Orangestad,12.5227,-70.037,11,NaN,1.2068128356522e-06,1,NaN,NaN
+Nicaragua,Nicaragua,Central America,Managua,12.115,-86.236,4,NaN,0.231594624,1,NaN,NaN
+Curaçao,Curaçao,Caribbean,Willemstad,12.1039,-68.933,11,8,1.57746765493712e-13,1,1,1
+Trinidad and Tobago,Trinidad-Tobago,Caribbean,Port of Spain,10.6603,-61.518,37,28,8.44410903989487e-65,0.011089008,9.71264235905872e-08,1
+Venezuela (Bolivarian Republic of),Venezuela,South America,Caracas,10.4806,-66.904,35,22,4.45127729150256e-14,6.97954723291553e-08,0.207109973,1
+Costa Rica,Costa Rica,Central America,San Jose,9.9281,-84.078,38,30,1.19313336653079e-22,3.94162638564692e-08,1.83950226244009e-06,1
+Panama,Panama,Central America,Panama City,8.9824,-79.517,48,6,6.35919652308326e-54,0.000148815,0.119906731,1
+Palau,Palau,Oceania,Ngerulmud,7.5004,134.624,NaN,NaN,NaN,NaN,NaN,NaN
+Sri Lanka,Sri Lanka,Asia,Colombo,6.9271,79.853,35,20,1,1,0.145575564,1
+Guyana,Guyana,South America,Georgetown,6.801111,-58.155,5,NaN,0.214571075,1,NaN,NaN
+Suriname,Suriname,South America,Paramaribo,5.852,-55.204,34,5,6.22561898196481e-54,0.017410414,1,0.171603389
+Ghana,Ghana,Africa,Accra,5.56,-0.205,NaN,NaN,NaN,NaN,NaN,NaN
+French Guiana,French Guiana,South America,Cayenne,4.938,-52.336,13,NaN,8.54356398289556e-09,0.01612717,NaN,NaN
+Brunei Darussalam,Brunei Darussalam,Asia,Bandar Seri Begawan,4.8923,114.942,10,NaN,1,1,NaN,NaN
+Colombia,Colombia,South America,Bogota,4.711,-74.072,4,NaN,0.39174378,1,NaN,NaN
+Maldives,Maldives,Asia,Male,4.1753,73.509,43,19,0.038535689,6.9124006159096e-19,0.114395549,1
+Malaysia,Malaysia,Asia,Kuala Lumpur,3.1319,101.687,31,29,2.26945513406142e-09,1.01367218516438e-05,1.5101765338573e-11,1
+Singapore,Singapore,Asia,Singapore,1.3521,103.852,50,40,1.57032365333472e-58,9.61823641618141e-13,5.01398630380569e-19,0.001106234
+Sao Tome and Principe,Sao Tome-Principe,Africa,Sao Tome,0.1864,6.731,8,NaN,0.07016351,0.223128208,NaN,NaN
+Seychelles,Seychelles,Africa,Victoria,-4.6211,55.452,50,NaN,1.098637108505e-35,0.002444801,NaN,NaN
+Saint Helena: Ascension,St. Helena: Ascension,Africa,Georgetown (Ascension),-7.9333,-14.3667,NaN,NaN,NaN,NaN,NaN,NaN
+Tokelau,Tokelau,Oceania,Atafu,-8.5421,-172.515,NaN,NaN,NaN,NaN,NaN,NaN
+Peru,Peru,South America,Lima,-12.0467,-77.043,6,NaN,1,1,NaN,NaN
+Mayotte,Mayotte,Africa,Mamoudzou,-12.7806,45.228,4,NaN,9.64739758090088e-06,1,NaN,NaN
+Wallis and Futuna Islands,Wallis-Futuna Islands,Oceania,Mata-Utu,-13.2816,-176.1745,4,NaN,0.020624461,1,NaN,NaN
+Samoa,Samoa,Oceania,Apia,-13.8316,-171.75,NaN,NaN,NaN,NaN,NaN,NaN
+Malawi,Malawi,Africa,Lilongwe,-13.9833,33.7833,NaN,NaN,NaN,NaN,NaN,NaN
+American Samoa,American Samoa,Oceania,Pago Pago,-14.2732,-170.702,25,NaN,3.71227846344025e-27,1,NaN,NaN
+Saint Helena ex. dep.,St. Helena ex. dep.,Africa,Jamestown,-15.9268,-5.716,NaN,NaN,NaN,NaN,NaN,NaN
+French Polynesia,French Polynesia,Oceania,Pape'ete,-17.5325,-149.558,11,NaN,2.41506620127772e-06,1,NaN,NaN
+Fiji,Fiji,Oceania,Suva,-18.1405,178.4233,11,NaN,1.01071689306281e-06,1,NaN,NaN
+Niue,Niue,Oceania,Alofi,-19.0558,-169.917,NaN,NaN,NaN,NaN,NaN,NaN
+Mauritius,Mauritius,Africa,Port Louis,-20.1609,57.499,32,29,2.54152475070936e-41,0.008854859,1.17898584932456e-17,6.35340590474606e-09
+Reunion,Reunion,Africa,Saint Denis,-20.8785,55.448,26,10,2.23335188702451e-18,1,0.021336723,0.001103637
+Tonga,Tonga,Oceania,Nuku'alofa,-21.1343,-175.202,10,NaN,6.69196343297174e-11,1,NaN,NaN
+Cook Islands,Cook Islands,Oceania,Avarua,-21.2057,-159.785,NaN,NaN,NaN,NaN,NaN,NaN
+Saint Pierre and Miquelon,St. Pierre-Miquelon,North America,Saint PIerre,-21.3409,-56.167,NaN,NaN,NaN,NaN,NaN,NaN
+New Caledonia,New Caledonia,Oceania,Noumea,-22.2717,166.458,50,11,8.59091225894735e-55,9.4055233722307e-06,4.25246579137537e-08,1
+Namibia,Namibia,Africa,Windhoek,-22.5597,17.0832,NaN,NaN,NaN,NaN,NaN,NaN
+Brazil,Brazil,South America,Sao Paulo,-23.5558,-46.633,7,5,4.84977691906398e-12,1,7.69886322298296e-07,1
+Botswana,Botswana,Africa,Gaborone,-24.658,25.912,3,NaN,0.006224731,1,NaN,NaN
+South Africa,South Africa,Africa,Johannesburg ,-26.2056,28.047,11,NaN,2.61285504928352e-06,0.437922685,NaN,NaN
+Norfolk Island,Norfolk Island,Oceania,Kingston,-29.056,167.9602,NaN,NaN,NaN,NaN,NaN,NaN
+Chile,Chile,South America,Santiago,-33.4489,-70.669,55,40,1.11291169920152e-16,3.71950599825026e-07,5.09047128898596e-71,1.15740551504304e-07
+Australia,Australia,Oceania,Sydney,-33.8688,151.207,51,40,4.79577227505901e-11,2.05344564197372e-19,1.61284482779781e-84,0.005298183
+Argentina,Argentina,South America,Buenos Aires,-34.6037,-58.381,6,3,6.17785441596408e-05,1,0.000643371,1
+Uruguay,Uruguay,South America,Montevideo,-34.9055,-56.188,27,22,1,0.054973167,2.70954112929618e-37,0.000387316
+New Zealand,New Zealand,Oceania,Auckland,-36.8509,174.763,49,40,1.25688346667471e-06,1.33652740482072e-13,9.23411736447847e-64,1
+Falkland Islands (Malvinas),Falkland Islands,South America,Stanley,-51.6928,-57.851,NaN,NaN,NaN,NaN,NaN,NaN
