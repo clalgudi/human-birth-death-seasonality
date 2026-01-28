@@ -20,4 +20,4 @@
 
 This repository contains the **data**, **code**, and **analysis notebooks/scripts** used to generate the results and figures.
 
-If you use this repository (data or code) in your work, please cite the preprint (see below).
+If you use this repository (data or code) in your work, please cite the preprint (see above).
