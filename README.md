@@ -13,29 +13,11 @@
 
 ---
 
-## Paper
-
-**Preprint (bioRxiv):**  
-https://www.biorxiv.org/content/10.64898/2026.01.20.700719v1.abstract
-
----
-
 ## Abstract
 
-Despite growing evidence that climate change affects public health, it remains unclear whether recent global warming has directly altered fundamental aspects of human biology at large scales. Here, we analyzed long-term trends in human birth and death seasonality, using demographic data from >100 regions worldwide. We found that both births and deaths followed remarkably persistent seasonal cycles. Births peaked through spring to fall, whereas deaths peaked in mid-winter, especially among older individuals. Across latitude, death seasonality diminished near the equator; birth seasonality remained strong across all latitudes but peaked progressively later at lower latitudes. Strikingly, birth seasonality in high-latitude regions showed synchronized phase delays in recent decades, with peak timing delayed by 2–3 months during the 1970s–2000s, converging toward lower-latitude timing and stabilizing subsequently, while death seasonality remained stable. An unbiased analysis of key socioeconomic and climatic variables revealed that temperature was the predominant predictor of birth-peak timing. Estimated conception peaks shifted away from summer amid rising summer heatwaves and stabilized in cooler fall/winter months, consistent with known adverse effects of heat on reproduction. Together, these results suggest that recent climate warming has reshaped the seasonal timing of human reproduction. (191 words)
+Despite growing evidence that climate change affects public health, it remains unclear whether recent global warming has directly altered fundamental aspects of human biology at large scales. Here, we analyzed long-term trends in human birth and death seasonality, using demographic data from >100 regions worldwide. We found that both births and deaths followed remarkably persistent seasonal cycles. Births peaked through spring to fall, whereas deaths peaked in mid-winter, especially among older individuals. Across latitude, death seasonality diminished near the equator; birth seasonality remained strong across all latitudes but peaked progressively later at lower latitudes. Strikingly, birth seasonality in high-latitude regions showed synchronized phase delays in recent decades, with peak timing delayed by 2–3 months during the 1970s–2000s, converging toward lower-latitude timing and stabilizing subsequently, while death seasonality remained stable. An unbiased analysis of key socioeconomic and climatic variables revealed that temperature was the predominant predictor of birth-peak timing. Estimated conception peaks shifted away from summer amid rising summer heatwaves and stabilized in cooler fall/winter months, consistent with known adverse effects of heat on reproduction. Together, these results suggest that recent climate warming has reshaped the seasonal timing of human reproduction.
 ---
 
-## About this repository
-
-This repository contains the **data**, **code**, and **analysis notebooks/scripts** used to generate the results and figures for:
-
-> **Global trends in human birth and death seasonality reveal climate-related shifts in reproductive timing**
+This repository contains the **data**, **code**, and **analysis notebooks/scripts** used to generate the results and figures.
 
 If you use this repository (data or code) in your work, please cite the preprint (see below).
-
----
-
-## Repository structure (example)
-
-> Update these paths to match your repo exactly.
-
